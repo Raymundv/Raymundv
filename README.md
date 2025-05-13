@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raymundo Vazquez Martinez
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raymundo Vazquez 
 =================================================================================================================================================
 
 Physicist and Machine learning scientist
@@ -8,9 +8,9 @@ I'm a physicist and data scientist with experience in banking, machine learning,
 
 * 🌍  I'm based in Sweden
 * ✉️  You can contact me at [raymundovm98@gmail.com](mailto:raymundovm98@gmail.com)
-* 🧠  I'm learning Studying a Masters program in Financial engineering
+* 🧠  I'm studying a Masters program in Financial engineering
 * 🤝  I'm open to collaborating on Resarch projects in banking, physics or machine learning.
-* ⚡  I enjoy traveling to different parts of the world. Favorites: Peru, Sweden, Costa Rica.
+* ⚡  I enjoy traveling.
 
 ### Skills
 
