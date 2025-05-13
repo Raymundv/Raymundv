@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Physicist and Machine learning scientist
 ----------------------------------------
 
-I'm a physicist and data scientist with experience in banking, machine learning, and generative AI. I like to work in collaborative settings, which has led to impactful work—like winning a generative AI hackathon on economic inclusion (Git Hub copilot BBVA 2024) and contributing to machine learning research accepted at NeurIPS 2024.
+I'm trained as a physicist and have experience in banking, machine learning, and generative AI. 
+I work in collaborative settings, which has led to impactful work. Working as a team, we have achieved different milestones: From winning a generative AI hackathon on economic inclusion (Git Hub copilot BBVA 2024) and contributing to machine learning research accepted at NeurIPS 2024.
 
 * 🌍  I'm based in Sweden
 * ✉️  You can contact me at [raymundovm98@gmail.com](mailto:raymundovm98@gmail.com)
